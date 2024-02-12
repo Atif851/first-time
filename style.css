@@ -1,0 +1,281 @@
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-flex;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+
+    
+}
+button{
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    text-transform: capitalize;
+    border-spacing: 5px;
+
+}
+.nave{
+    display: flex;
+    justify-content: center;
+    float: right;
+padding-bottom: 500px;
+}
+.heading{
+    float: left;
+}
+.main{
+    display: flex;
+justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 700px;
+    border: 1px solid black;
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+button{
+    border: none;
+    background: none;
+}
+.contact{
+    display: flex;
+    justify-content: end;
+    padding-bottom: 500px;
+    padding-left: 30px;
+}
+.name{
+    float: left;
+    padding-left: 0px;
+    padding-bottom: 500px;
+    padding-right: 200px;
+}
+h1{
+    float: left;
+    padding-right: 100px
+}
+.carddiv{
+    padding-top: 100px;
+    padding-right: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.maincontainer{
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.navebar{
+ display: flex;
+ margin-top: 10px;
+ 
+
+}
+.center{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.left{
+    
+}
+h1{
+    padding-left: 30px;
+    margin-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    padding-top: 20px;
+    color: aliceblue;
+}
+.carddiv{
+    width: 20%;
+    float: right;
+    margin-right: 100px;
+}
+.cardbody{
+    text-align: justify;
+    color: azure;
+}
+.cardtop{
+    
+}
+input{
+     border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.second{
+    background-color: rgb(32, 31, 31);
+    width: 100%;
+    height: 700px;
+    display: inline-block;
+}
+.leftsec{
+    width: 40%;
+    padding-left: 50px;
+    color: aliceblue;
+    display: inline-block;
+}
+.bod{
+    width: 40%;
+    padding-left: 80px;
+    display: inline-block;
+    
+}
+.card{
+    width: 70%;
+    display: inline-block;
+}
+.secondright{
+    float: right;
+    background-image: url(image3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 800px;
+margin-top: 20px;
+margin-right: 30px;
+    display: inline-block;
+}
+.service{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(50, 51, 52);
+    display: inline-block;
+}
+.HEADER{
+    display: block;
+}
+span{
+    margin-left: 50px;
+    display: block;
+}
+.one{
+    width: 20%;
+    margin-top: 100px;
+    color: aliceblue;
+    display: inline-block;
+}
+.head{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+.center2{
+    float: right;
+    width: 20%;
+    display: inline-block;
+    color: aliceblue;
+    margin-right: 700px;
+    margin-top: 100px;
+}
+.security{
+  width: 100%;
+  height: 800px;
+  background-color: rgb(51, 40, 40);
+  margin-top: 20px;
+}
+.card4{
+    width: 30%;
+    float: right;
+    margin-right: 100px;
+}
+img{
+    float: left;
+    margin-left: 100px;
+  
+
+}
+h2{
+   font-size: xx-large;
+   font-weight: bolder;
+   padding-top: 200px;
+   padding-left: 100px;
+}
+.important{
+    background-color: blue;
+    border-radius: 5px;
+
+}
+.radius{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+h5{
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+.investigation{
+    background-color: rgb(37, 35, 35);
+    width: 100%;
+    height: 900px;
+    display: inline-block;
+}
+h4{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: aliceblue;
+    padding-top: 100px;
+    padding-left:50px ;
+    font-style: oblique;
+    text-transform: uppercase;
+}
+h5{
+    color: aliceblue;
+    text-transform: capitalize;
+}
+.op{
+    width: 40%;
+    float: right;
+    color: aliceblue;
+    padding-right: 200px;
+    font-weight: 900;
+    font-size: xx-large;
+    display: inline-block;
+ padding-top: 100px;
+
+}
+.pic{
+    display: inline-block;
+}
+.H5{
+    font-weight: bolder;
+    font-size: xx-large;
+    color: aliceblue;
+    padding-left: 40PX;
+}
+.tick{
+    width: 30%;
+}
+a:hover{
+color: blue;
+}
+.click{
+    background-color: rgb(84, 79, 79);
+    width: 70%;
+    margin-left: 150px;
+}
