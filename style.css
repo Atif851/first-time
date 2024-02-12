@@ -272,10 +272,68 @@ h5{
     width: 30%;
 }
 a:hover{
-color: blue;
+color: rgb(245, 245, 248);
+font-size: x-small;
+
 }
 .click{
-    background-color: rgb(84, 79, 79);
-    width: 70%;
-    margin-left: 150px;
+    background-color: rgb(43, 38, 38);
+    width: 100%;
+    
+    margin-right: 10px;
+    height: 200px;
+    
+}
+.tick{
+    display: inline-block;
+    width: 40%;
+    color: aliceblue;
+}
+.tick2{
+display: inline-block;
+padding-bottom: 5px;
+display: inline-block;
+
+
+}
+.tick3{
+    display: inline-block;
+    
+}
+.man{
+    width: 300px;
+    background-color: rgb(27, 25, 25);
+    text-align: left;
+}.inp{
+    margin-left: 100px;
+}.send{
+    background-color: rgb(58, 58, 236);
+    color: aliceblue;
+    border-radius: 10px;
+    width: 70px;
+}
+body{
+    background-color: rgb(9, 9, 9);
+}
+.wri{
+    color: aliceblue;
+}
+.lasttopic{
+    color: aliceblue;
+}
+.block{
+    display: block;
+    text-decoration: none;
+}
+.endcenter{
+    display: inline-block;
+    padding-left: 300px;
+}
+.end{
+    display: inline-block;
+    padding-left: 200px;
+}
+.endright{
+    display: inline-block;
+    padding-left: 200px;
 }
